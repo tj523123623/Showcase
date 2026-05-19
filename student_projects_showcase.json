@@ -1,0 +1,422 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "projectTitle": "Project 1: Innovative Tech Solution",
+      "category": "Artificial Intelligence",
+      "teamName": "MindSync",
+      "students": [
+        "Riya Sharma",
+        "Kunal Mehta",
+        "Aditya Verma"
+      ],
+      "techStack": [
+        "Python",
+        "TensorFlow",
+        "Flask"
+      ],
+      "shortDescription": "AI system analyzing text for mental health patterns.",
+      "fullDescription": "Uses NLP models to detect early signs of anxiety and depression and provide insights for early intervention.",
+      "year": "2025 - 2026",
+      "semester": "Even",
+      "teamYear": "Fourth Year"
+    },
+    {
+      "id": 2,
+      "projectTitle": "Project 2: Innovative Tech Solution",
+      "category": "Computer Vision",
+      "teamName": "VisionCoders",
+      "students": [
+        "Ankit Jain",
+        "Sneha Iyer",
+        "Rahul Nair"
+      ],
+      "techStack": [
+        "Python",
+        "OpenCV",
+        "FaceNet"
+      ],
+      "shortDescription": "Face recognition based attendance system.",
+      "fullDescription": "Automates attendance marking through live facial recognition with high accuracy.",
+      "year": "2025 - 2026",
+      "semester": "Odd",
+      "teamYear": "Fourth Year"
+    },
+    {
+      "id": 3,
+      "projectTitle": "Project 3: Innovative Tech Solution",
+      "category": "Data Science",
+      "teamName": "AgriPredict",
+      "students": [
+        "Harsh Patel",
+        "Nisha Reddy",
+        "Manav Kulkarni"
+      ],
+      "techStack": [
+        "Python",
+        "Pandas",
+        "Scikit Learn"
+      ],
+      "shortDescription": "Predicts crop yield using environmental data.",
+      "fullDescription": "Analyzes rainfall, soil and seasonal trends to estimate agricultural output.",
+      "year": "2025 - 2026",
+      "semester": "Even",
+      "teamYear": "Fourth Year"
+    },
+    {
+      "id": 4,
+      "projectTitle": "Project 4: Innovative Tech Solution",
+      "category": "Mobile Application",
+      "teamName": "PathFinders",
+      "students": [
+        "Pooja Singh",
+        "Aman Gupta",
+        "Varun Joshi"
+      ],
+      "techStack": [
+        "Flutter",
+        "Firebase",
+        "Maps API"
+      ],
+      "shortDescription": "Campus navigation mobile application.",
+      "fullDescription": "Helps students locate classrooms and facilities using guided navigation.",
+      "year": "2025 - 2026",
+      "semester": "Odd",
+      "teamYear": "Fourth Year"
+    },
+    {
+      "id": 5,
+      "projectTitle": "Project 5: Innovative Tech Solution",
+      "category": "FinTech",
+      "teamName": "QuantCrew",
+      "students": [
+        "Dev Shah",
+        "Ishita Kapoor",
+        "Yash Agarwal"
+      ],
+      "techStack": [
+        "React",
+        "NodeJS",
+        "ChartJS"
+      ],
+      "shortDescription": "Interactive stock analytics dashboard.",
+      "fullDescription": "Visualizes market trends and helps beginners understand investment behavior.",
+      "year": "2025 - 2026",
+      "semester": "Even",
+      "teamYear": "Fourth Year"
+    },
+    {
+      "id": 6,
+      "projectTitle": "Project 6: Innovative Tech Solution",
+      "category": "Artificial Intelligence",
+      "teamName": "CampusAI",
+      "students": [
+        "Sakshi Mishra",
+        "Arjun Bansal",
+        "Neeraj Pillai"
+      ],
+      "techStack": [
+        "Python",
+        "FastAPI",
+        "LLM API"
+      ],
+      "shortDescription": "AI chatbot for university queries.",
+      "fullDescription": "Answers student academic and administrative questions instantly.",
+      "year": "2025 - 2026",
+      "semester": "Odd",
+      "teamYear": "Fourth Year"
+    },
+    {
+      "id": 7,
+      "projectTitle": "Project 7: Innovative Tech Solution",
+      "category": "Web Development",
+      "teamName": "SecureExam",
+      "students": [
+        "Karthik Rao",
+        "Divya Menon",
+        "Siddharth Das"
+      ],
+      "techStack": [
+        "JavaScript",
+        "WebRTC",
+        "NodeJS"
+      ],
+      "shortDescription": "Online examination proctoring tool.",
+      "fullDescription": "Monitors exam sessions and flags suspicious activities.",
+      "year": "2025 - 2026",
+      "semester": "Even",
+      "teamYear": "Fourth Year"
+    },
+    {
+      "id": 8,
+      "projectTitle": "Project 8: Innovative Tech Solution",
+      "category": "IoT",
+      "teamName": "EcoTech",
+      "students": [
+        "Rohan Desai",
+        "Tanvi Kulkarni",
+        "Mehul Shah"
+      ],
+      "techStack": [
+        "Arduino",
+        "IoT Sensors",
+        "Firebase"
+      ],
+      "shortDescription": "Smart waste monitoring system.",
+      "fullDescription": "Tracks garbage levels and optimizes waste collection routes.",
+      "year": "2025 - 2026",
+      "semester": "Odd",
+      "teamYear": "Fourth Year"
+    },
+    {
+      "id": 9,
+      "projectTitle": "Project 9: Innovative Tech Solution",
+      "category": "NLP",
+      "teamName": "HireSmart",
+      "students": [
+        "Aditi Chatterjee",
+        "Ritesh Kumar",
+        "Vikram Soni"
+      ],
+      "techStack": [
+        "Python",
+        "BERT",
+        "NLP"
+      ],
+      "shortDescription": "AI resume screening assistant.",
+      "fullDescription": "Ranks resumes automatically based on job description relevance.",
+      "year": "2025 - 2026",
+      "semester": "Even",
+      "teamYear": "Third Year"
+    },
+    {
+      "id": 10,
+      "projectTitle": "Project 10: Innovative Tech Solution",
+      "category": "Web Application",
+      "teamName": "FocusHub",
+      "students": [
+        "Neha Kapoor",
+        "Rohit Yadav",
+        "Simran Gill"
+      ],
+      "techStack": [
+        "React",
+        "SocketIO",
+        "NodeJS"
+      ],
+      "shortDescription": "Virtual collaborative study rooms.",
+      "fullDescription": "Encourages focused study sessions with shared timers.",
+      "year": "2025 - 2026",
+      "semester": "Odd",
+      "teamYear": "Third Year"
+    },
+    {
+      "id": 11,
+      "projectTitle": "Project 11: Innovative Tech Solution",
+      "category": "Cybersecurity",
+      "teamName": "ShieldNet",
+      "students": [
+        "Arnav Bhatt",
+        "Kriti Sinha",
+        "Mohit Singh"
+      ],
+      "techStack": [
+        "Python",
+        "Wireshark",
+        "Flask"
+      ],
+      "shortDescription": "Network intrusion detection dashboard.",
+      "fullDescription": "Detects malicious traffic using anomaly detection models.",
+      "year": "2025 - 2026",
+      "semester": "Even",
+      "teamYear": "Third Year"
+    },
+    {
+      "id": 12,
+      "projectTitle": "Project 12: Innovative Tech Solution",
+      "category": "Healthcare Tech",
+      "teamName": "MediTrack",
+      "students": [
+        "Isha Nair",
+        "Vivek Raj",
+        "Ananya Bose"
+      ],
+      "techStack": [
+        "React",
+        "NodeJS",
+        "MongoDB"
+      ],
+      "shortDescription": "Patient health tracking system.",
+      "fullDescription": "Allows users to record and visualize health metrics over time.",
+      "year": "2025 - 2026",
+      "semester": "Odd",
+      "teamYear": "Third Year"
+    },
+    {
+      "id": 13,
+      "projectTitle": "Project 13: Innovative Tech Solution",
+      "category": "EdTech",
+      "teamName": "LearnLite",
+      "students": [
+        "Rahul Khanna",
+        "Tanisha Arora",
+        "Saurabh Tiwari"
+      ],
+      "techStack": [
+        "VueJS",
+        "Firebase"
+      ],
+      "shortDescription": "Micro learning platform for students.",
+      "fullDescription": "Delivers bite sized lessons with progress tracking.",
+      "year": "2025 - 2026",
+      "semester": "Even",
+      "teamYear": "Third Year"
+    },
+    {
+      "id": 14,
+      "projectTitle": "Project 14: Innovative Tech Solution",
+      "category": "AI Vision",
+      "teamName": "RoadSafe",
+      "students": [
+        "Yashvi Patel",
+        "Amit Dubey",
+        "Kiran Shetty"
+      ],
+      "techStack": [
+        "Python",
+        "YOLO",
+        "OpenCV"
+      ],
+      "shortDescription": "Road accident detection system.",
+      "fullDescription": "Detects accidents from CCTV feeds and alerts emergency services.",
+      "year": "2025 - 2026",
+      "semester": "Odd",
+      "teamYear": "Third Year"
+    },
+    {
+      "id": 15,
+      "projectTitle": "Project 15: Innovative Tech Solution",
+      "category": "Blockchain",
+      "teamName": "ChainVerify",
+      "students": [
+        "Rohit Mehra",
+        "Snehal Patil",
+        "Deepak Kumar"
+      ],
+      "techStack": [
+        "Solidity",
+        "Ethereum",
+        "React"
+      ],
+      "shortDescription": "Blockchain certificate verification.",
+      "fullDescription": "Prevents fake academic certificates using decentralized validation.",
+      "year": "2025 - 2026",
+      "semester": "Even",
+      "teamYear": "Third Year"
+    },
+    {
+      "id": 16,
+      "projectTitle": "Project 16: Innovative Tech Solution",
+      "category": "Cloud Computing",
+      "teamName": "CloudNotes",
+      "students": [
+        "Megha Joshi",
+        "Prateek Jain",
+        "Alok Singh"
+      ],
+      "techStack": [
+        "AWS",
+        "NodeJS",
+        "React"
+      ],
+      "shortDescription": "Cloud synced note taking app.",
+      "fullDescription": "Allows collaborative note sharing across devices.",
+      "year": "2025 - 2026",
+      "semester": "Odd",
+      "teamYear": "Third Year"
+    },
+    {
+      "id": 17,
+      "projectTitle": "Project 17: Innovative Tech Solution",
+      "category": "AR VR",
+      "teamName": "ImmersiLearn",
+      "students": [
+        "Aarav Kapoor",
+        "Diya Shah",
+        "Ritika Das"
+      ],
+      "techStack": [
+        "Unity",
+        "C#",
+        "ARCore"
+      ],
+      "shortDescription": "AR based science learning tool.",
+      "fullDescription": "Students explore interactive 3D scientific models.",
+      "year": "2025 - 2026",
+      "semester": "Even",
+      "teamYear": "Second Year"
+    },
+    {
+      "id": 18,
+      "projectTitle": "Project 18: Innovative Tech Solution",
+      "category": "Smart Systems",
+      "teamName": "ParkEase",
+      "students": [
+        "Nitin Verma",
+        "Shreya Gupta",
+        "Vansh Malhotra"
+      ],
+      "techStack": [
+        "IoT",
+        "React",
+        "Firebase"
+      ],
+      "shortDescription": "Smart parking availability system.",
+      "fullDescription": "Detects free parking spots using sensor data.",
+      "year": "2025 - 2026",
+      "semester": "Odd",
+      "teamYear": "Second Year"
+    },
+    {
+      "id": 19,
+      "projectTitle": "Project 19: Innovative Tech Solution",
+      "category": "Sustainability",
+      "teamName": "GreenPulse",
+      "students": [
+        "Anjali Rao",
+        "Keshav Iyer",
+        "Rajat Bansal"
+      ],
+      "techStack": [
+        "Python",
+        "Data Analytics"
+      ],
+      "shortDescription": "Carbon footprint tracking platform.",
+      "fullDescription": "Helps users measure and reduce environmental impact.",
+      "year": "2025 - 2026",
+      "semester": "Even",
+      "teamYear": "Second Year"
+    },
+    {
+      "id": 20,
+      "projectTitle": "Project 20: Innovative Tech Solution",
+      "category": "AI Assistant",
+      "teamName": "TaskMate",
+      "students": [
+        "Naman Agarwal",
+        "Pallavi Singh",
+        "Siddhi Kulkarni"
+      ],
+      "techStack": [
+        "Python",
+        "LLM API",
+        "React"
+      ],
+      "shortDescription": "Personal productivity AI assistant.",
+      "fullDescription": "Manages schedules, reminders, and task prioritization automatically.",
+      "year": "2025 - 2026",
+      "semester": "Odd",
+      "teamYear": "Second Year"
+    }
+  ]
+}
